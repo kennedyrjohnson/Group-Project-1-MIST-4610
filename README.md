@@ -6,7 +6,7 @@ Car Dealership Management System, Group 6
 2. Chris Johnson,
 3. Mckenna Isenberg,
 4. Kennedy Johnson,
-5. Charlie Matthews,
+5. Charlie Matthews, @2004matthews
 
 # Project Scenario Description:
 The database we chose to model is a car dealership. The purpose of this database is to manage the interactions between customers, salespeople, cars, and services offered by a car dealership. The dealership can track the cars available in inventory by storing details like mileage and VIN. The dealership sells various car makes and models to customers, with each sale sold by unique salespeople. The database stores customer details such as their purchase history and salesperson their transaction was with. Each sale must link to a customer and the corresponding salesperson. In addition to sales, repair services are tracked in the database. The database stores service details such as the specific car the service was linked to, service type, and cost. Our system enables us to better manage customers, sales, and car services to ensure the dealership operates efficiently.
