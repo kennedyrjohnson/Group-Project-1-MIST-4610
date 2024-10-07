@@ -22,9 +22,18 @@ Entities:
 7. Warranty: represents the warranty information associated with each car includes Warranty_ID (PK), Start_Date, End_Date, Warranty_Type, CarID (FK), SalesmanID (FK)
 
 Relationships:
-- One-to-One: Sale to Car
-- One-to-Many: Sale to Car, Customer to Sale, Car to Service, Salesperson to Dealership, Dealership to Sale
-- Many-to-One: Sale to Salesperson, Car to Warranty, Service to Salesperson
+- One-to-One
+    - Sale to Car (each sale is linked to a single car per transaction)
+- One-to-Many
+    - Sale to Car (each sale can have more than a single car sold)
+    - Customer to Sale (each customer can engage in multiple sales)
+    - Car to Service (each car can receive many services)
+    - Salesperson to Dealership (each salesperson can be assoiated with more than one dealerships)
+    - Dealership to Sale (each dealership has multiple sales)
+- Many-to-One
+    - Sale to Salesperson (each sale can only be made by one salesperson)
+    - Car to Warranty (each car can have one warranty purchased)
+    - Service to Salesperson (each service can only be made by one salesperson)
 
 <img width="519" alt="thumbnail_image" src="https://github.com/user-attachments/assets/83afa553-c69c-4ef4-a376-f932fb3fa071">
 
