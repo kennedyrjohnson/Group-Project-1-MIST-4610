@@ -13,20 +13,13 @@ The database we chose to model is a car dealership. The purpose of this database
 
 # Data Model:
 Entities:
-    Customer: stores customer information
-        - CustomerID (PK), name, phone, and email
-    Saleperson: stores details about salesman working at the dealership
-        - SalesmanID (PK), name, phone, and email
-    Car: stores information about available cars at the dealership 
-        - CarID (PK), make, model, year, milage, VIN, and salesmanID (FK)
-    Sale: stores details about car sale transactions
-        - SaleID (PK), saleDate, salePrice, customerID (FK), salesmanID (FK), and carID (FK)
-    Service: stores details about services performed on a car either before or after it has been sold
-        - ServiceID (PK), serviceDate, serviceType, serviceCost, salesmanID (FK), and carID (FK)
-    Dealership: shows where the car sales occur
-        - Dealership_ID (PK), Dealership_city (PK), Dealership_state (PK)
-    Warranty: represents the warranty information associated with each car
-        - Warranty_ID (PK), Start_Date, End_Date, Warranty_Type, CarID (FK), SalesmanID (FK)
+1. Customer: stores customer information includes CustomerID (PK), name, phone, and email
+2. Saleperson: stores details about salesman working at the dealership includes SalesmanID (PK), name, phone, and email
+3. Car: stores information about available cars at the dealership includes CarID (PK), make, model, year, milage, VIN, and salesmanID (FK)
+4. Sale: stores details about car sale transactions includes saleID (PK), saleDate, salePrice, customerID (FK), salesmanID (FK), and carID (FK)
+5. Service: stores details about services performed on a car either before or after it has been sold includes ServiceID (PK), serviceDate, serviceType, serviceCost, salesmanID (FK), and carID (FK)
+6. Dealership: shows where the car sales occur includes Dealership_ID (PK), Dealership_city (PK), Dealership_state (PK)
+7. Warranty: represents the warranty information associated with each car includes Warranty_ID (PK), Start_Date, End_Date, Warranty_Type, CarID (FK), SalesmanID (FK)
 
 Relationships:
     One-to-One: Sale to Car
