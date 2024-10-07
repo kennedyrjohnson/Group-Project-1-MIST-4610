@@ -37,3 +37,30 @@ Relationships:
 
 <img width="519" alt="thumbnail_image" src="https://github.com/user-attachments/assets/83afa553-c69c-4ef4-a376-f932fb3fa071">
 
+# Data Dictionary:
+Customer Table:
+![Screenshot 2024-10-06 213041](https://github.com/user-attachments/assets/668c1899-a5ac-466a-9fc4-33de0ab8c83e)
+
+Salesperson Table:
+![Screenshot 2024-10-06 213123](https://github.com/user-attachments/assets/972995d6-378a-4316-9447-4aa5b94da046)
+
+Sale Table:
+![Screenshot 2024-10-06 213157](https://github.com/user-attachments/assets/1ac9cd0d-bb54-48c0-a7fb-74ef99514cbf)
+
+Car Table:
+![Screenshot 2024-10-06 213221](https://github.com/user-attachments/assets/05fc96a5-f315-4c7d-9e4e-e4126ec25318)
+
+Dealership Table:
+![Screenshot 2024-10-06 213241](https://github.com/user-attachments/assets/d96d754f-e062-41a9-8287-f0d398986ec1)
+
+Warranty Table:
+![Screenshot 2024-10-06 213323](https://github.com/user-attachments/assets/d66659ce-55ff-45e4-a27f-3bb6e225f6e1)
+
+Service Table:
+![Screenshot 2024-10-06 213347](https://github.com/user-attachments/assets/4b7259a1-fdc8-4fb8-88c2-6ec0410c2907)
+
+
+
+
+
+
