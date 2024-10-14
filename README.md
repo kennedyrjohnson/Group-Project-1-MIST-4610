@@ -85,24 +85,29 @@ Service Table:
 # Queries:
 ![Screenshot 2024-10-14 150429](https://github.com/user-attachments/assets/3e9833f3-994e-4214-90b8-06e615525bc5)
 
-1. ![Screenshot 2024-10-14 153113](https://github.com/user-attachments/assets/2be61948-41d5-45ee-a057-7a7a27da738c)
+
+
+Simple Query #1
+![Screenshot 2024-10-14 153113](https://github.com/user-attachments/assets/2be61948-41d5-45ee-a057-7a7a27da738c)
    
 In this query, we are retrieving data from two tables: 'Sale' and 'Customer.' We're joining these tables on the 'CustomerID' column, which is shared between both tables. The result is a combined dataset that provides a detailed view of each sale along with the corresponding customer information. This is useful in scenarios where you need to analyze sales alongside customer demographics, such as identifying which types of customers are generating the most revenue.
 
 
+Simple Query #2
+![Screenshot 2024-10-14 153531](https://github.com/user-attachments/assets/7cd98025-37d2-45fa-a6f3-6593f2e567e3)
 
-3. ![Screenshot 2024-10-14 153531](https://github.com/user-attachments/assets/7cd98025-37d2-45fa-a6f3-6593f2e567e3)
-   
 Here, we are counting the total number of cars sold by counting the 'SaleID' column in the 'Sale' table. The output will give us a single value representing the total number of sales transactions. This type of data is critical for reporting purposes, as it provides a quick and clear insight into overall sales performance. It could be used in sales forecasts or to measure success during specific periods.
 
 
-5. ![Screenshot 2024-10-14 153656](https://github.com/user-attachments/assets/abc3b8da-cab7-43cc-a774-89e0a986f7c8)
+Simple Query #3
+![Screenshot 2024-10-14 153656](https://github.com/user-attachments/assets/abc3b8da-cab7-43cc-a774-89e0a986f7c8)
    
 This query calculates the average cost of services performed by taking the 'ServiceCost' field from the 'Service' table. The result will give us the average service price, which is valuable for understanding the pricing trends within the business. This can inform pricing strategies, help identify if services are priced competitively, or if they should be adjusted to match market demand.
 
 
 
-7. ![Screenshot 2024-10-14 154109](https://github.com/user-attachments/assets/2fe18f92-2c39-44bd-9d23-06619794c085)
+Simple Query #4
+![Screenshot 2024-10-14 154109](https://github.com/user-attachments/assets/2fe18f92-2c39-44bd-9d23-06619794c085)
    
 This query shows the count of cars manufactured in each year by grouping them based on their 'Year' of manufacturing. For each distinct year, the query counts the number of cars using 'CarID' and displays it as 'CarCount.' The output table helps us understand the distribution of cars across different manufacturing years. This is particularly useful for tracking production trends over time, identifying which years had higher or lower car production, or even analyzing patterns that could inform supply chain or inventory decisions.
 
