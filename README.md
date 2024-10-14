@@ -84,5 +84,7 @@ Service Table:
 
 
 # Queries:
+![Screenshot 2024-10-14 150429](https://github.com/user-attachments/assets/3e9833f3-994e-4214-90b8-06e615525bc5)
+
 
 
