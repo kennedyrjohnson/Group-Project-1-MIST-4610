@@ -3,8 +3,8 @@ Car Dealership Management System, Group 6
 
 # Team Members:
 1. Alexandra DiClemente, @akd27602
-2. Chris Johnson,
-3. Mckenna Isenberg,
+2. Chris Johnson, @cjohns417
+3. Mckenna Isenberg, @mckennaisen
 4. Kennedy Johnson,
 5. Charlie Matthews, @2004matthews
 
