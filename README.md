@@ -2,7 +2,7 @@
 
 # Team Members:
 1. Alexandra DiClemente, @akd27602
-2. Chris Johnson,
+2. Chris Johnson, @cjohns417
 3. Mckenna Isenberg,
 4. Kennedy Johnson,
 5. Charlie Matthews, @2004matthews
