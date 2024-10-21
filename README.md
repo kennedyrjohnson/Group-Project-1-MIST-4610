@@ -128,8 +128,24 @@ How many customers are in our database? This query counts the total number of cu
 
 
 # Simple Query #4
+![Screenshot 2024-10-21 161736](https://github.com/user-attachments/assets/1f97d9ed-3e2d-4a90-be5f-780116266c9f)
+
+Show me the count of cars by their manufacturing year? This query shows the count of cars manufactured in each year by grouping them based on their 'Year' of manufacturing. For each distinct year, the query counts the number of cars using 'CarID' and displays it as 'CarCount.' The output table helps us understand the distribution of cars across different manufacturing years. This is particularly useful for tracking production trends over time, identifying which years had higher or lower car production, or even analyzing patterns that could inform supply chain or inventory decisions.
 
 
+# Complex Query #5
+![Screenshot 2024-10-21 161921](https://github.com/user-attachments/assets/8fdc5988-1796-4054-a83c-e97a7ccfcb55)
+
+Can you show the total sales amount for each salesperson, along with the number of cars they've sold? Here we are able to look at the person selling the car, how much they made in sales, and how many cars they sold. We can use this information to make managerial decisions such as bonuses for the employees who have sold the most cars. 
+
+
+# Complex Query #6
+![Screenshot 2024-10-21 162154](https://github.com/user-attachments/assets/4b8b858a-77ad-4069-968c-5a33830d24de)
+
+Report each customer and the cars they've purchased including the sales price, make, and model. This query is used to determine customer names and the details of the car or cars that they purchased. This is done by joining the customer and sale table to give in depth details about the sale itself, and which customer made the purchase. This can be used to get a better understanding of what certain customers have done in the past for potential future sales opportunities.
+
+
+# Complex Query #7
 
 
 
