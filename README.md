@@ -4,7 +4,7 @@
 1. Alexandra DiClemente, @akd27602
 2. Chris Johnson, @cjohns417
 3. Mckenna Isenberg, @mckennaisen
-4. Kennedy Johnson,
+4. Kennedy Johnson, @kennedyrjohnson
 5. Charlie Matthews, @2004matthews
 
 # Project Overview
