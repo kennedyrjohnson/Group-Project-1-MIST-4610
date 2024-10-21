@@ -109,6 +109,13 @@ Service Table:
 
 # Queries:
 
+Query #1
+![Screenshot 2024-10-21 160602](https://github.com/user-attachments/assets/f947c81d-fdee-416a-a5b9-d7c9d4407104)
+
+How many cars did we sell? Here, we are counting the total number of cars sold by counting the 'SaleID' column in the 'Sale' table. The output will give us a single value representing the total number of sales transactions. This type of data is critical for reporting purposes, as it provides a quick and clear insight into overall sales performance. It could be used in sales forecasts or to measure success during specific periods.
+
+
+Query #2
 
 
 
