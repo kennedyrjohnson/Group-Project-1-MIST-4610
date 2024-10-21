@@ -109,6 +109,10 @@ Service Table:
 
 # Queries:
 
+![Screenshot 2024-10-21 162922](https://github.com/user-attachments/assets/ec63bc46-6cd4-4cf1-be1d-b5273d83885e)
+
+
+
 # Simple Query #1
 ![Screenshot 2024-10-21 160602](https://github.com/user-attachments/assets/f947c81d-fdee-416a-a5b9-d7c9d4407104)
 
@@ -146,6 +150,28 @@ Report each customer and the cars they've purchased including the sales price, m
 
 
 # Complex Query #7
+![Screenshot 2024-10-21 162340](https://github.com/user-attachments/assets/3e06862a-9c24-425e-b400-b302f6626a4d)
+
+List the cars along with their warranty details, including start and end dates, and warranty types. The query aims to provide a detailed list of cars, including their warranty information such as start and end dates and the type of warranty. This information can assist in customer service, inventory management, and sales strategies.
+
+
+# Complex Query #8
+![Screenshot 2024-10-21 162516](https://github.com/user-attachments/assets/0dd1a40b-ec41-44aa-a7de-12760fa2e220)
+
+How many services have been completed by each salesperson, and what is the total service cost attributed to each? This query shows us each salesperson’s contributions along with the service cost attributed by them. This is useful for tracking performance and revenue generated, which can be important for making compensation decisions regarding employees and identifying high performing individuals on the back end side of the business. 
+
+
+# Complex Query #9
+![Screenshot 2024-10-21 162708](https://github.com/user-attachments/assets/8ebded49-36fc-4629-996f-b1a20f682904)
+
+Which cars have been sold that have an active warranty? This is useful information for the dealership so they can monitor when warranties will expire and how well salespeople are doing on selling warranties to customers.  
+
+
+# Complex Query #10
+![Screenshot 2024-10-21 162812](https://github.com/user-attachments/assets/a79d918b-904c-4128-8adc-7c4ae1657474)
+
+What is the average sale price of cars sold by each salesperson? This query calculates the average sale price of cars sold by each salesperson, providing insights into individual sales performance. This information can help management evaluate the effectiveness of sales strategies and identify top-performing salespeople.
+
 
 
 
