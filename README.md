@@ -109,14 +109,19 @@ Service Table:
 
 # Queries:
 
-Query #1
+# Simple Query #1
 ![Screenshot 2024-10-21 160602](https://github.com/user-attachments/assets/f947c81d-fdee-416a-a5b9-d7c9d4407104)
 
 How many cars did we sell? Here, we are counting the total number of cars sold by counting the 'SaleID' column in the 'Sale' table. The output will give us a single value representing the total number of sales transactions. This type of data is critical for reporting purposes, as it provides a quick and clear insight into overall sales performance. It could be used in sales forecasts or to measure success during specific periods.
 
 
-Query #2
+# Simple Query #2
+![Screenshot 2024-10-21 161122](https://github.com/user-attachments/assets/5d53cb26-2efe-4732-a2c0-4f98cdf8e1e5)
 
+What is the average cost of services performed? This query calculates the average cost of services performed by taking the 'ServiceCost' field from the 'Service' table. The result will give us the average service price, which is valuable for understanding the pricing trends within the business. This can inform pricing strategies, help identify if services are priced competitively, or if they should be adjusted to match market demand.
+
+
+# Simple Query #3
 
 
 
