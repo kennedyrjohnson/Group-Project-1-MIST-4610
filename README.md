@@ -109,3 +109,16 @@ Service Table:
 
 # Queries:
 
+
+
+
+
+
+
+
+# Database Information:
+
+Name of the database: ha_chj41761
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
+
