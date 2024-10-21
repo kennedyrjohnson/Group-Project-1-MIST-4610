@@ -122,7 +122,12 @@ What is the average cost of services performed? This query calculates the averag
 
 
 # Simple Query #3
+![Screenshot 2024-10-21 161533](https://github.com/user-attachments/assets/14686383-8189-4933-b424-645a87abea02)
 
+How many customers are in our database? This query counts the total number of customers in the database, including those who have purchased a vehicle and those who have utilized our vehicle service.
+
+
+# Simple Query #4
 
 
 
